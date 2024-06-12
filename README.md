@@ -1,5 +1,9 @@
 # Getting Started
+![image](https://github.com/Sinichi78/lead-tracker/assets/110324874/2c37e6ef-d115-4ad1-9f02-ebe02693c968)
+
+
 Install the dependencies and run the project
+
 ```
 npm install
 npm start
